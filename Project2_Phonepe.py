@@ -378,7 +378,7 @@ if selected == "Dashboard":
 
 elif selected == "About":
     st.title('PhonePe Pulse Data Visualisation')
-    st.text('By Devadath G Nair')
+    st.text('By Amrutha Suresh')
     st.subheader(":violet[**PROJECT TITLE** :] _Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly_", divider='violet')
     st.subheader(":violet[**SKILLS TAKE AWAY FROM THIS PROJECT** :] _Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, Plotly and Live Geo Visualization._", divider='violet')
     st.subheader(":violet[**DOMAIN** :] _Fintech_", divider='violet')
